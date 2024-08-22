@@ -3,7 +3,7 @@ import cron from 'node-cron';
 
 // Your Slack Incoming WebHook URL
 const playground =
-	'https://hooks.slack.com/services/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';
+	'https://hooks.slack.com/services/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';
 const webhookUrl: string = playground;
 
 // Function to send message to Slack
